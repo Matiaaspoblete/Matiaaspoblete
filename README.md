@@ -1,9 +1,30 @@
-# 💫 About Me:
-🔭 I'm currently working on websites and various Next.js projects<br>👯 I'm looking to collaborate on web development projects using modern frameworks<br>🤝 I'm looking for help with advanced React patterns and optimization techniques<br>🌱 I'm currently learning Next.js, React, and modern UI development tools<br>💬 Ask me about web development, frontend technologies, or chess strategies<br>⚡ Fun fact: I won a regional chess tournament and was featured in the newspaper
+# About Me
 
+I am a web developer focused on building scalable, interactive websites and applications using modern frontend technologies like **Next.js** and **React**.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/maatiaspobletee/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matias-poblete-7607351b8/) 
+- Currently working on websites and Next.js projects  
+- Open to collaborating on web development projects  
+- Seeking guidance on advanced React patterns and optimization  
+- Continuously learning Next.js, React, and modern UI development tools  
+- Happy to discuss web development, frontend technologies, or chess strategies  
+- Fun fact: I won a regional chess tournament and was featured in the newspaper  
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+---
+
+## Socials
+
+- LinkedIn: [Matias Poblete](https://www.linkedin.com/in/matias-poblete-7607351b8/)  
+
+---
+
+## Tech Stack
+
+**Frontend:** HTML5, CSS3, JavaScript, TypeScript, Next.js, TailwindCSS  
+**Backend & Databases:** Supabase, SQLite  
+**Tools & Design:** GitHub, GitHub Actions, Adobe Photoshop  
+
+---
+
+## What I’m Looking For
+
+I am eager to collaborate on innovative projects and deepen my expertise in modern frontend development, particularly in the React and Next.js ecosystem.
