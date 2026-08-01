@@ -13,17 +13,8 @@ I am a web developer focused on building scalable, interactive websites and appl
 
 ## Socials
 
-- LinkedIn: [Matias Poblete](https://www.linkedin.com/in/matias-poblete-7607351b8/)  
-
----
-
-## Tech Stack
-
-**Frontend:** HTML5, CSS3, JavaScript, TypeScript, Next.js, TailwindCSS  
-**Backend & Databases:** Supabase, SQLite  
-**Tools & Design:** GitHub, GitHub Actions, Adobe Photoshop  
-
----
+- LinkedIn: [Matias Poblete](https://www.linkedin.com/in/matias-poblete-7607351b8/)
+- X: [Matias Poblete](https://x.com/pobletedev)
 
 ## What I’m Looking For
 
